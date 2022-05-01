@@ -1,0 +1,13 @@
+Flask==1.1.2
+flask_cors==3.0.10
+keras==2.8.0
+matplotlib==3.3.4
+numpy==1.20.1
+pandas==1.2.4
+Pillow==9.1.0
+plotly==5.3.1
+requests==2.25.1
+seaborn==0.11.1
+streamlit==1.2.0
+streamlit_lottie==0.0.3
+streamlit_option_menu==0.3.2
